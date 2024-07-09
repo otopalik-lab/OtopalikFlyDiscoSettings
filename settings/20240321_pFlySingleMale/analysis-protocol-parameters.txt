@@ -2,7 +2,7 @@ doautomaticchecksincoming,force
 doflytracking,on
 doaddpflies, on
 doregistration,on
-doledonoffdetection,on
+doledonoffdetection,off
 dotrackwings,on
 dosexclassification,off
 docomputeperframefeatures,on
