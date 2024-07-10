@@ -1,2 +1,4 @@
-/groups/branson/home/bransonlab/JAABAProjectFiles/FlyBubble/Walk_RM.jab
-/groups/branson/home/bransonlab/JAABAProjectFiles/FlyBubble/Walk2p1.jab
+/groups/otopalik/home/otopalikrobot/P1ScreenAnalysis/src/JAABAProjectFiles/MultibubbleMaleMale/chasing.jab
+/groups/otopalik/home/otopalikrobot/P1ScreenAnalysis/src/JAABAProjectFiles/MultibubbleMaleMale/dualwing.jab
+/groups/otopalik/home/otopalikrobot/P1ScreenAnalysis/src/JAABAProjectFiles/MultibubbleMaleMale/unilateralwing.jab
+
