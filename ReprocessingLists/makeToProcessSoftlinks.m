@@ -8,8 +8,9 @@ function [newStr] = makeToProcessSoftlinks(listfile)
 S = readlines(listfile);
 newStr = strrep(S,'/Volumes/otopaliklab/','/groups/otopalik/otopaliklab/');
 explist = newStr;
-%toprocessdir = '/groups/otopalik/home/otopalikrobot/flydisco_data/to-process';
-toprocessdir = '/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/softlinktest';
+toprocessdir = '/groups/otopalik/home/otopalikrobot/flydisco_data/to-process';
+%toprocessdir = '/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings';
+%toprocessdir = '/Volumes/otopaliklab/to-process-dir-test'
 
 %ln -s source_file_or_directory_name  softlink_name
 for i = 1:numel(explist)
