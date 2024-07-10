@@ -1,4 +1,4 @@
-function [] = makeToProcessSoftlinks(listfile)
+function [newStr] = makeToProcessSoftlinks(listfile)
 % MAKETOPROCESSSOFTLINKS generates softlinks to experiment directories that need to be re-run
 % in the FlyDiscoAnalysis pipeline. These softlinks are generated from a
 % provided list (str for a .txt file) and the soft links will be added to the
