@@ -3,7 +3,7 @@ doflytracking,on
 doaddpflies, on
 doregistration,on
 doledonoffdetection,off
-dotrackwings,on
+dotrackwings,off
 dosexclassification,off
 docomputeperframefeatures,on
 docomputeperframestats,off
