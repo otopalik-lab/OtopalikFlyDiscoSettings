@@ -2,4 +2,4 @@ indicatorwindowr,35
 pad,20
 OptogeneticExp,1
 maxDistCornerFrac_LEDLabel,.16
-LEDMarkerType,LEDTemplates_multiBubble.png
+LEDMarkerType,LEDTemplates_fourbubble.png
