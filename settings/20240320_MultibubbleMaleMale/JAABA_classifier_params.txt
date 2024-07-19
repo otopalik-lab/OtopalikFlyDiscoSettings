@@ -1,4 +1,6 @@
 /groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/chasing.jab
 /groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/dualwingext.jab
 /groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/unilateralwing.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/aggression.jab
+
 
