@@ -10,7 +10,7 @@ ssh otopalika@login2
 ssh otopalikrobot@login2
 cd /OtopalikFlyDiscoSettings
 git pull
-cd /misc/local/matlab-2024a/bin
+cd /misc/local/matlab-2023b/bin
 bsub -Is -n1 -W 0:30 /bin/bash
 ./matlab
 
