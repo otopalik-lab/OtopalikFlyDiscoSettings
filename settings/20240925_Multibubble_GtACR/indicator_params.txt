@@ -4,7 +4,7 @@ pad,20
 OptogeneticExp,1
 maxDistCornerFrac_LEDLabel,.16
 LEDMarkerType,LEDTemplates_MultiBubble_GtACR.png
-ledmask1,LEDTemplates_RGBbubble_mask_1.png
-ledmask2,LEDTemplates_RGBbubble_mask_2.png
-protocol_prefix_from_mask_index,R,B
+ledmask1,LEDTemplates_multibubble_Gmask_1.png
+ledmask2,LEDTemplates_multibubble_Bmask_2.png
+protocol_prefix_from_mask_index,G,B
 reducefun,max
