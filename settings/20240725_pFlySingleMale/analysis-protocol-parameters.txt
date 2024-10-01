@@ -1,5 +1,5 @@
 doautomaticchecksincoming,force
-doflytracking,on
+doflytracking,on	
 doaddpflies,on
 doregistration,on
 doledonoffdetection,on
@@ -7,9 +7,9 @@ dosexclassification,off
 docomputeperframefeatures,on
 docomputeperframestats,off
 docomputehoghofperframefeatures,off
-dojaabadetect,off
+dojaabadetect,on
 doplotperframestats,off
-domakectraxresultsmovie,on
+domakectraxresultsmovie,off
 doapt,off
 domakeaptresultsmovie,off
 doautomaticcheckscomplete,force
