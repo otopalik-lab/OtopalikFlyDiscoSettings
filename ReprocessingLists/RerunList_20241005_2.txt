@@ -1,0 +1,3 @@
+/Volumes/otopaliklab/flydisco_data/2024-10-03/Multibubble_GtACR_multibubble__Green_2min_ES_UAS_GtACR_20241003T095802
+/Volumes/otopaliklab/flydisco_data/2024-10-03/Multibubble_GtACR_multibubble__Green_2min_LC10a_UAS_GtACR_20241003T092123
+/Volumes/otopaliklab/flydisco_data/2024-10-03/Multibubble_GtACR_multibubble__Green_2min_SS80967_UAS_GtACR_20241003T110645
