@@ -1,6 +1,8 @@
 /groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/chasing.jab
-/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/dualwingext.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/bilateralwingext.jab
 /groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/unilateralwing.jab
-/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/aggression.jab
-
-
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/circling.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/copulationattempt.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/headtohead.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/pinwheel.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/runningescape.jab
