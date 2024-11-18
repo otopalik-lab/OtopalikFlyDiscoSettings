@@ -1,6 +1,6 @@
 doautomaticchecksincoming,force
 doflytracking,on
-doregistration,off 
+doregistration,on 
 doledonoffdetection,off
 dotrackwings,off
 dosexclassification,off
