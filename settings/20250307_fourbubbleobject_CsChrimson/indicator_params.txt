@@ -1,0 +1,8 @@
+indicatorwindowr,35
+pad,20
+OptogeneticExp,1
+maxDistCornerFrac_LEDLabel,.16
+LEDMarkerType,LEDTemplates_fourbubble_CsChrimson.png
+ledmask1,LEDTemplates_CsChrimson_mask_1.png
+protocol_prefix_from_mask_index,R
+reducefun,max
