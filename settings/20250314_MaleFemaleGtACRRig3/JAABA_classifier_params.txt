@@ -1,2 +1,10 @@
-/groups/branson/home/bransonlab/JAABAProjectFiles/FlyBubble/Walk_RM.jab
-/groups/branson/home/bransonlab/JAABAProjectFiles/FlyBubble/Walk2p1.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/approach_v2.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/boxing_v2.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/chase_v2.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/headbutt_v2.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/leave_v2.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/pinwheel_v3.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/stationary_v2.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/tussle_v3.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/wingflick_v2.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/MultibubbleMaleMale/Version2_1/wingunilateral_v2.jab
