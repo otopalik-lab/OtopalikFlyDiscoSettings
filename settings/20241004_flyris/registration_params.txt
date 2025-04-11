@@ -22,5 +22,5 @@ minTemplateFeatureStrength,-0.5
 minTemplateFeatureStrength,-0.5
 usemediandt,0
 # maxdist indexed by plate
-maxFlyTrackerNanInterpFrames,10
+maxFlyTrackerNanInterpFrames,20
 doesYAxisPointUp,0
