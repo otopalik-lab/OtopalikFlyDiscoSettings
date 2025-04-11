@@ -2,8 +2,8 @@ indicatorwindowr,35
 pad,20
 OptogeneticExp,1
 maxDistCornerFrac_LEDLabel,.16
-LEDMarkerType,LEDTemplates_MultiBubble_GtACR.png
-ledmask1,LEDTemplates_RGBbubble_mask_1.png
+LEDMarkerType,LEDTemplates_Multibubble_GtACR.png
+ledmask1,LEDTemplates_GtACR_mask_1.png
 protocol_prefix_from_mask_index,G
 reducefun,max
 
