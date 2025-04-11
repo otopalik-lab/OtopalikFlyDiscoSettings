@@ -1,0 +1,2 @@
+Stim, equal_stimon_1
+Prestim, equal_stimoff_1, 1
