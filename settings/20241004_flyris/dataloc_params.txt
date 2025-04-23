@@ -2,9 +2,9 @@ rootreaddir,/groups/sciserv/flyolympiad/Olympiad_Screen/fly_bowl/bowl_data
 rootwritedir,/groups/sciserv/flyolympiad/Olympiad_Screen/fly_bowl/bowl_data
 linedatadir,/groups/sciserv/flyolympiad/Olympiad_Screen/fly_bowl/line_data
 configfilepattern,FlyBowlDataCaptureParams*.txt
-moviefilestr,movie_cam_0.avi
-annfilestr,movie_cam_0.ann
-flytrackerparentcalibrationstr,parent_calibration_flyris_avi.mat
+moviefilestr,movie.ufmf
+annfilestr,movie.ufmf.ann
+flytrackerparentcalibrationstr,parent_calibration_flyris_20241118.mat
 flytrackercalibrationstr,flytracker-calibration.mat
 flytrackertrackstr,movie-track.mat
 flytrackerbgstr,movie-bg.mat

@@ -16,7 +16,7 @@ featureRadius,30
 bowlMarkerPairTheta_true,0.852
 nBowlMarkers,1
 # bowl marker indexed by rig
-bowlMarkerType,Registration_Template_FlyrisTriangle.png
+bowlMarkerType,none
 minTemplateFeatureStrength,-0.5
 minTemplateFeatureStrength,-0.5
 minTemplateFeatureStrength,-0.5
