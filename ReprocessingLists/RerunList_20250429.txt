@@ -1,0 +1,4 @@
+/Volumes/otopaliklab/flydisco_data/2025-02-25/walls_multibubble_multibubble__whiteOnly_CS_UAS_GtACR_20250225T135232
+/Volumes/otopaliklab/flydisco_data/2025-02-11/fourbubbleobject_multibubble__whiteOnly-Chelo_cs-freshly-mated_UASGtACR_20250211T132109
+/Volumes/otopaliklab/flydisco_data/2025-02-11/fourbubbleobject_multibubble__whiteOnly-Chelo_cs-freshly-mated_UASGtACR_20250211T133933
+/Volumes/otopaliklab/flydisco_data/2025-04-07/flyris_flyRis__FlyrisWhiteTestCurve_cs-curve_UASChrimsonVenusX0070_20250407T114050
