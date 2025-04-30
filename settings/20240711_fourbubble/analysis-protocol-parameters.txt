@@ -11,5 +11,5 @@ dojaabadetect,off
 doplotperframestats,off
 domakectraxresultsmovie,off
 doapt,off
-domakeaptresultsmovie,on
+domakeaptresultsmovie,off
 doautomaticcheckscomplete,force
