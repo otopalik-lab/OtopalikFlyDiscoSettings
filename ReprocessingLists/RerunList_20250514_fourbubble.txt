@@ -1,0 +1,4 @@
+/Volumes/otopaliklab/flydisco_data/2025-05-01/fourbubble_multibubble__WhiteOnly1hour_4to1_CSMH_20250501T091601
+/Volumes/otopaliklab/flydisco_data/2025-05-01/fourbubble_multibubble__WhiteOnly1hour_4to1_CSMH_20250501T110233
+/Volumes/otopaliklab/flydisco_data/2025-05-01/fourbubble_multibubble__WhiteOnly1hour_4to1_CSMH_20250501T123537
+/Volumes/otopaliklab/flydisco_data/2025-05-01/fourbubble_multibubble__WhiteOnly1hour_4to1_CSMH_20250501T134218
