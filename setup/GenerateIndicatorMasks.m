@@ -1,11 +1,11 @@
 % Make LED Indiciator Template and Masks:
 
 %% Change these file paths as needed:
-analysis_protocol = '20250307_fourbubbleobject_CsChrimson'; %name of settings directory of interest
-expdir = '/Volumes/otopaliklab/Temporary_Storage/Chelo/fourbubbleobject_multibubble__Red_2min_p1-cs_UASChrimsonVenusX0070_20250218T133738';
+analysis_protocol = 'current_pflySingleMale'; %name of settings directory of interest
+expdir = '/Volumes/otopaliklab/flydisco_data/2025-05-06/pflySingleMale_pfly_RedStepsOnOff6Steps_SS03661_UASChrimsonVenusX0070_20250506T152809';
 
 %% Do not change if setting up in OtopalikFlyDiscoSettings:
-settingsdir = '/Users/perezsanchezc/Documents/GitHub/OtopalikFlyDiscoSettings/settings';
+settingsdir = '/Users/otopalika/Documents/GitHub/OtopalikFlyDiscoSettings/settings';
 %analysis_protocol = '20240912_MultibubbleMaleMale';
 %expdir = '/Volumes/otopaliklab/flydisco_data/2024-08-12/MultibubbleMaleMale_multibubble__RedStepsOnOff6Steps_3020171_UASChrimsonVenusX0070_20240812T131019';
 datalocparamsfilestr = 'dataloc_params.txt';
@@ -46,7 +46,7 @@ axis image;
 
 %%%%%%%%% change output file name; copy into analysis protocol directory and edit registration_params.LEDMarkerType  %%%%%%%%%%%%%%%%
 cd(fullfile(settingsdir,analysis_protocol))
-imwrite(uint8(template),'LEDTemplates_fourbubble_CsChrimson.png');
+imwrite(uint8(template),'LEDTemplates_pfly_new.png');
 
 % distance from the corner 
 % informative for setting registration_params.maxDistCornerFrac_LEDLabel (restricts template
@@ -62,7 +62,7 @@ dcornerfrac = dcorner / imr
 
 %% To make masks for multicolor optogenetics (for each LED have to rename .png to mask_1, mask_2, etc.)
 % read in LED template made in earlier step
-image = imread('LEDTemplates_fourbubble_CsChrimson.png');
+image = imread('LEDTemplates_pfly_new.png');
 
 figure
 imshow(image);
@@ -79,6 +79,6 @@ subplot(1, 2, 1), imshow(image), title('LED template image');
 subplot(1, 2, 2), imshow(binarymask), title('Binary Mask');
 
 % i think 'mask_1' is controlled vocabulary
-imwrite(uint8(binarymask*255),'LEDTemplates_CsChrimson_mask_1.png')
+imwrite(uint8(binarymask*255),'LEDTemplates_pfly_mask_1_new.png')
 
 

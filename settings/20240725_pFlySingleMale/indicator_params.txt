@@ -2,8 +2,8 @@ indicatorwindowr,35
 pad,20
 OptogeneticExp,1
 maxDistCornerFrac_LEDLabel,.16
-LEDMarkerType,LEDTemplates_pfly.png
-ledmask1,LEDTemplates_pfly_mask_1.png
-ledmask1,LEDTemplates_pfly_mask_2.png
+LEDMarkerType,LEDTemplates_pfly_new.png
+ledmask1,LEDTemplates_pfly_mask_1_new.png
+ledmask2,LEDTemplates_pfly_mask_2_new.png
 protocol_prefix_from_mask_index,R,B
 reducefun,max

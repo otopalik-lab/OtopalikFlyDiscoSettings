@@ -2,9 +2,9 @@ doautomaticchecksincoming,force
 doflytracking,on	
 doaddpflies,on
 doregistration,on
-doledonoffdetection,on
+doledonoffdetection,force
 dosexclassification,off
-docomputeperframefeatures,on
+docomputeperframefeatures,force
 docomputeperframestats,off
 docomputehoghofperframefeatures,off
 dojaabadetect,off
