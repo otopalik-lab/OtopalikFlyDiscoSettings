@@ -1,7 +1,7 @@
 doautomaticchecksincoming,force
 doflytracking,on
 doregistration,on 
-doledonoffdetection,on
+doledonoffdetection,force
 dotrackwings,off
 dosexclassification,on
 docomputeperframefeatures,on
