@@ -1,10 +1,10 @@
 doautomaticchecksincoming,force
 doflytracking,on
-doregistration,on 
+doregistration,force 
 doledonoffdetection,off
 dotrackwings,off
 dosexclassification,off
-docomputeperframefeatures,on
+docomputeperframefeatures,force
 docomputeperframestats,off
 docomputehoghofperframefeatures,off
 dojaabadetect,force
