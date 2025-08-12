@@ -19,7 +19,7 @@ bsub -Is -n1 -W 0:30 /bin/bash
 cd('/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings')
 addpath('ReprocessingLists')
 addpath('ReprocessingLists/code')
-makeToProcessSoftlinks('RerunList_20250803_ReRunMultibubbleMaleMaleMay06_P1Screen.txt'); 
+makeToProcessSoftlinks('RerunList_20250812_EfeRerun.txt'); 
 
 5. Can double-check that soft links these experiment directories on prfs (in otopalikrobot) have made it into the to-process directory in flydisco_data. First get out of MATLAB:
 
