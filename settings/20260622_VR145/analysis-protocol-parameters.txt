@@ -1,13 +1,13 @@
 doautomaticchecksincoming,force
 doflytracking,on
-doregistration,force 
+Doregistration,off
 doledonoffdetection,off
 dotrackwings,off
 dosexclassification,off
-docomputeperframefeatures,force
+Docomputeperframefeatures,off
 docomputeperframestats,off
 docomputehoghofperframefeatures,off
-dojaabadetect,force
+Dojaabadetect,off
 doplotperframestats,off
 domakectraxresultsmovie,off
 doapt,off
