@@ -7,8 +7,7 @@ movie_length_delta_seconds,10
 #for backward compatibility with unreliable timestamps, registrationparams,usemediandt = 1 (baslers)
 #min_ufmf_diagnostics_summary_nframes,50000
 control_line_names,pBDPGAL4U
-required_files,metaData.xml,movie.ufmf,protocol.mat
-desired_files,stamp_log_cam0.txt,cameraSettings1.json
-required_fns,flag_aborted,flag_redo,seconds_fliesloaded,screen_type,cross_barcode
+required_files,metadata.xml,movie.ufmf
+#desired_files,stamp_log_cam0.txt,cameraSettings1.json
+required_fns,screen_type
 frame_rate,60
-

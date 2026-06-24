@@ -17,7 +17,7 @@ registrationtxtfilestr,registrationdata.txt
 ctraxdiagnosticsfilestr,ctrax_diagnostics.txt
 ctraxlogstr,ctrax_log.txt
 acquisitionlogfilestr,Log.txt
-metadatafilestr,metaData.xml
+metadatafilestr,metadata.xml
 quickstatsfilestr,QuickStats.txt
 quickstatsimagefilestr,QuickStats.png
 temperaturefilestr,temperature.txt
