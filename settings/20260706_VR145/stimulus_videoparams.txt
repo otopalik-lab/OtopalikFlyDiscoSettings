@@ -1,0 +1,7 @@
+Prestim, 5
+Poststim,10
+minboxwidth,250
+boxborder,30
+downsample,3
+nfliesplot,3
+nperiodsplot,-1
