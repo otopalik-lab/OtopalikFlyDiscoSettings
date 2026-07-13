@@ -1,0 +1,3 @@
+num_cores,8
+num_chunks,16
+n_flies,2
