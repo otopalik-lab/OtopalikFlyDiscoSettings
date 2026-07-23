@@ -1,4 +1,4 @@
 /groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/VR145/unilateral_wing_VR145.jab
 /groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/VR145/chasing_V145.jab
 /groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/VR145/circlingV145.jab
-/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/VR145/still_femaleV145.jab
+/groups/otopalik/home/otopalikrobot/OtopalikFlyDiscoSettings/JAABAProjectFiles/VR145/notmoving_VR145.jab
