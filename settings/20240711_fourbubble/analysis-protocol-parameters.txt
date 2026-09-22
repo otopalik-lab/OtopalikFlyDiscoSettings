@@ -4,7 +4,7 @@ doregistration,force
 Doledonoffdetection,off
 dotrackwings,off
 dosexclassification,off
-docomputeperframefeatures,off
+docomputeperframefeatures,force
 docomputeperframestats,off
 docomputehoghofperframefeatures,off
 dojaabadetect,off
