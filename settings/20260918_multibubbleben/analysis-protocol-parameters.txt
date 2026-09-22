@@ -1,5 +1,5 @@
 doautomaticchecksincoming,force
-doflytracking,force
+doflytracking,on
 doregistration,force
 doledonoffdetection,off
 dotrackwings,off
